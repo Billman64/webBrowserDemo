@@ -1,0 +1,293 @@
+{
+  "project_info": {
+    "project_number": "1062944634596",
+    "firebase_url": "https://fir-inclass.firebaseio.com",
+    "project_id": "fir-inclass",
+    "storage_bucket": "fir-inclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062944634596:android:118d8e70b24ed49b",
+        "android_client_info": {
+          "package_name": "laughingleviathon.firebaseinclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062944634596-nb0ud6nptr5nso8aqbjjnp5mh4vpqhvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laughingleviathon.firebaseinclass",
+            "certificate_hash": "358747bb7392fb541737f4d84392deff5e3492b4"
+          }
+        },
+        {
+          "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxbZjboAlbRa8YeVMn5U2fyAgTTnihc4"
+        },
+        {
+          "current_key": "AIzaSyBvvLb_epJ6R7tFVHAcvqLf3miXk6KVfZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062944634596:android:d5290cca15cfd4d4",
+        "android_client_info": {
+          "package_name": "laughingleviathon.firebasemessaging_inclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062944634596-fabhqgvt3sejb7eu4qke15etrudcet7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laughingleviathon.firebasemessaging_inclass",
+            "certificate_hash": "358747bb7392fb541737f4d84392deff5e3492b4"
+          }
+        },
+        {
+          "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxbZjboAlbRa8YeVMn5U2fyAgTTnihc4"
+        },
+        {
+          "current_key": "AIzaSyBvvLb_epJ6R7tFVHAcvqLf3miXk6KVfZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062944634596:android:8d40400f372acff9",
+        "android_client_info": {
+          "package_name": "laughingleviathon.firebasepushmessaage_inclass2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062944634596-0uihnp457dql61v2fupre5104k7ur9k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laughingleviathon.firebasepushmessaage_inclass2",
+            "certificate_hash": "358747bb7392fb541737f4d84392deff5e3492b4"
+          }
+        },
+        {
+          "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxbZjboAlbRa8YeVMn5U2fyAgTTnihc4"
+        },
+        {
+          "current_key": "AIzaSyBvvLb_epJ6R7tFVHAcvqLf3miXk6KVfZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062944634596:android:084d98269ad4660e",
+        "android_client_info": {
+          "package_name": "laughingleviathon.recyclerview2_inclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062944634596-72qtp65dkeclp4k4fdgclsngn07vo65q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laughingleviathon.recyclerview2_inclass",
+            "certificate_hash": "358747bb7392fb541737f4d84392deff5e3492b4"
+          }
+        },
+        {
+          "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxbZjboAlbRa8YeVMn5U2fyAgTTnihc4"
+        },
+        {
+          "current_key": "AIzaSyBvvLb_epJ6R7tFVHAcvqLf3miXk6KVfZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062944634596:android:ac90540d40abad37",
+        "android_client_info": {
+          "package_name": "laughingleviathon.testing1b_inclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062944634596-tbc8tiqskstfrd00k0nj0fcgntjk1cbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laughingleviathon.testing1b_inclass",
+            "certificate_hash": "358747bb7392fb541737f4d84392deff5e3492b4"
+          }
+        },
+        {
+          "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxbZjboAlbRa8YeVMn5U2fyAgTTnihc4"
+        },
+        {
+          "current_key": "AIzaSyBvvLb_epJ6R7tFVHAcvqLf3miXk6KVfZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062944634596:android:e281f829899cc725",
+        "android_client_info": {
+          "package_name": "laughingleviathon.minitoro_inclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062944634596-d8urp2aqs2vl318h6h4s3uf1kflshic0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laughingleviathon.minitoro_inclass",
+            "certificate_hash": "358747bb7392fb541737f4d84392deff5e3492b4"
+          }
+        },
+        {
+          "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxbZjboAlbRa8YeVMn5U2fyAgTTnihc4"
+        },
+        {
+          "current_key": "AIzaSyBvvLb_epJ6R7tFVHAcvqLf3miXk6KVfZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062944634596-v9rer0vt8f67fdjlhneh4u6hcrj69jub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
